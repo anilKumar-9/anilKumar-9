@@ -1,89 +1,82 @@
-<h1 align="center">Hi 👋, I'm Anil</h1>
-<h3 align="center">A Passionate MERN Stack Developer | DSA Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Anil Kumar</h1>
+<h3 align="center">🚀 Aspiring SDE | 💻 DSA in Java | 🌐 MERN Stack Developer</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/u/anil342zv/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anil-kumar-37b151292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="nagapuri.anil.tech@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
+## 📌 Who Am I?
 
-- 🎓 Final year B.Tech student (Information Technology)  
-- 👨‍💻 I love building **full-stack web apps** using the **MERN stack**  
-- 💡 Solving **DSA problems** is my daily brain workout – 300+ problems solved  
-- 📚 Currently focused on:
-  - Advanced **Java DSA** for competitive programming
-  - Building scalable projects using **MongoDB, Express.js, React.js, and Node.js**
-- 💬 Ask me about anything related to:
-  - Java | DSA | MERN Stack | DBMS | CN | OS
+- 🎯 **Aspiring Software Development Engineer (SDE)**
+- 💡 Solved **300+ DSA problems** on [LeetCode](https://leetcode.com/u/anil342zv/) using **Java**
+- 🧠 Obsessed with logic building & problem solving
+- 🌐 I build **Full Stack Web Apps** using the **MERN Stack**
+
 
 ---
 
-### 🧠 Tech Stack
+## 🚀 Tech Stack
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+### 👨‍💻 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)  
-![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=node.js)  
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
-
-**Database & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen?style=for-the-badge&logo=mongodb)  
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+### 🌐 Full Stack Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
-### 🧩 Data Structures & Algorithms
+## 📈 GitHub Stats
 
-- Solved **300+ problems** on:
-  - [LeetCode](https://leetcode.com/your_leetcode_username) 🟧  
-  - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your_gfg_username/) 🟢  
-  - [HackerRank](https://www.hackerrank.com/your_hackerrank_username) ⚫  
-- Strong in:
-  - Arrays | Strings | Linked Lists | Trees | Graphs | DP | Heaps | Binary Search
-- Languages used: **Java** (Primary), C (Basic)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight" width="47%"/>
+</p>
 
 ---
 
-### 💻 Noteworthy Projects
+## 🧠 DSA Progress
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🎬 **Movie Recommendation System** | Python, ML, Flask | Suggests movies based on content and user preferences |
-| 🌱 **Agri Blockchain** | MERN, Solidity | A blockchain-based traceability system for sustainable agriculture |
-| 📊 **Sorting Visualizer** | HTML, CSS, JS | Visualizes sorting algorithms with animations and modular JS |
-
-> Explore all my projects in the pinned section above ⬆️
+- ✅ Solved 300+ problems across arrays, strings, trees, graphs, heaps, and DP
+- 💪 Using **Java** for clean, optimized solutions
+- 🔁 Practicing daily on:
+  - [LeetCode](https://leetcode.com/u/anil342zv/)
+  
 
 ---
 
-### 📈 GitHub Stats
+## 🌟 Projects Preview
 
-![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anilusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anilusername&layout=compact&theme=radical)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 📊 **Sorting Visualizer** | Animated sorting algorithm visualizer | HTML, CSS, JS |
 
----
-
-### 🌐 Coding Profiles
-
-- 🔗 [LeetCode](https://leetcode.com/your_leetcode_username) – 300+ Problems Solved  
-- 🔗 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your_gfg_username/)  
-- 🔗 [HackerRank](https://www.hackerrank.com/your_hackerrank_username)
+> See all in pinned repositories 🔝
 
 ---
 
-### 📫 Let's Connect
+## ⚡ Currently Working On
 
-- 📧 Email: anil@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/anilusername)  
-- 🌐 [Portfolio Website](https://anil-portfolio.com) _(optional)_
-
----
-
-> _“Code hard. Break bugs. Ship clean.”_
+```yaml
+🔸 Competitive Programming (DSA in Java)
+🔸 Full-Stack Projects with MERN
