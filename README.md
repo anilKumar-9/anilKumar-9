@@ -60,10 +60,6 @@
 
 Visual tool to understand sorting algorithms with animations.
 
-<p align="center">
-  <img src="https://your-image-link/sorting-visualizer.gif" width="90%" alt="Sorting Visualizer Preview"/>
-</p>
-
 **Stack:** HTML, CSS, JavaScript  
 🔗 [Live Demo](https://sorting-visualisation-anilkumar.netlify.app/) | 📂 [Code](https://github.com/anilKumar-9/Sorting-Visualizer)
 
@@ -73,10 +69,6 @@ Visual tool to understand sorting algorithms with animations.
 
 Real-time weather data app using OpenWeather API.
 
-<p align="center">
-  <img src="https://your-image-link/weather-app.png" width="90%" alt="Weather App Preview"/>
-</p>
-
 **Stack:** HTML, CSS, JavaScript  
 🔗 [Live Demo](https://weather-climateapp-javascript.netlify.app/) | 📂 [Code](https://github.com/anilKumar-9/Weather-app)
 
@@ -85,10 +77,6 @@ Real-time weather data app using OpenWeather API.
 ### ✅ To-Do List
 
 Simple and responsive task manager.
-
-<p align="center">
-  <img src="https://your-image-link/todo-app.png" width="90%" alt="To-Do List Preview"/>
-</p>
 
 **Stack:** HTML, CSS, JavaScript  
 🔗 [Live Demo](https://todo-list-taskmanager.netlify.app/) | 📂 [Code](https://github.com/anilKumar-9/To-Do-List)
