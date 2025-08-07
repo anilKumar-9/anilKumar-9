@@ -17,16 +17,16 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 Passionate about solving problems with efficient code  
 - 💻 Solved **300+ DSA problems** using Java on LeetCode  
-- 🌱 Building scalable full-stack apps with **MERN stack**  
-- ⚡ Always learning and exploring new technologies  
+- 🌱 Building full-stack projects using **MERN Stack**  
+- 🚀 Passionate about coding, building, and learning  
+- 🔁 Practicing daily on [LeetCode](https://leetcode.com/u/anil342zv/)
 
 ---
 
 ## 🧠 Tech Stack & Tools
 
-### 🚀 Languages & Core
+### 💡 Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50"/>
@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="background-color:white;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
 </p>
 
@@ -48,64 +48,64 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 </p>
 
 ---
 
-## 🔥 Projects
+## 🌟 Projects
 
 ### 🔍 Sorting Visualizer
 
-Visual tool to understand sorting algorithms step-by-step with animations.
+Visual tool to understand sorting algorithms with animations.
 
-<p>
-  <img src="https://your-image-link/sorting-visualizer.gif" width="100%"/>
+<p align="center">
+  <img src="https://your-image-link/sorting-visualizer.gif" width="90%" alt="Sorting Visualizer Preview"/>
 </p>
 
 **Stack:** HTML, CSS, JavaScript  
-🔗 [Live Demo](https://your-live-link.com) | 📂 [Code](https://github.com/anilKumar-9/sorting-visualizer)
+🔗 [Live Demo](https://sorting-visualisation-anilkumar.netlify.app/) | 📂 [Code](https://github.com/anilKumar-9/Sorting-Visualizer)
 
 ---
 
 ### ☀️ Weather App
 
-Shows real-time weather data using OpenWeatherMap API.
+Real-time weather data app using OpenWeather API.
 
-<p>
-  <img src="https://your-image-link/weather-app.png" width="100%"/>
+<p align="center">
+  <img src="https://your-image-link/weather-app.png" width="90%" alt="Weather App Preview"/>
 </p>
 
 **Stack:** HTML, CSS, JavaScript  
-🔗 [Live Demo](https://your-live-link.com) | 📂 [Code](https://github.com/anilKumar-9/weather-app)
+🔗 [Live Demo](https://weather-climateapp-javascript.netlify.app/) | 📂 [Code](https://github.com/anilKumar-9/Weather-app)
 
 ---
 
 ### ✅ To-Do List
 
-A simple task manager with add, delete, and filter features.
+Simple and responsive task manager.
 
-<p>
-  <img src="https://your-image-link/todo-app.png" width="100%"/>
+<p align="center">
+  <img src="https://your-image-link/todo-app.png" width="90%" alt="To-Do List Preview"/>
 </p>
 
 **Stack:** HTML, CSS, JavaScript  
-🔗 [Live Demo](https://your-live-link.com) | 📂 [Code](https://github.com/anilKumar-9/todo-app)
+🔗 [Live Demo](https://todo-list-taskmanager.netlify.app/) | 📂 [Code](https://github.com/anilKumar-9/To-Do-List)
 
 ---
 
 ## 📌 DSA Journey
 
-- ✅ Solved 300+ problems (Arrays, Strings, Trees, Graphs, DP)
-- 💡 Focused on writing clean, optimized Java code
-- 🔁 Practicing daily on [LeetCode](https://leetcode.com/u/anil342zv/)
+- ✅ Solved 300+ problems (Arrays, Strings, Trees, Graphs, DP)  
+- 💡 Focused on writing clean and optimal code in Java  
+- 🔁 Regular practice on [LeetCode](https://leetcode.com/u/anil342zv/)
 
 ---
 
-## 📈 Current Goals
+## 🎯 Current Goals
 
 ```yaml
-🔸 Mastering advanced DSA topics in Java
-🔸 Building real-world full-stack projects
-🔸 Preparing for top tech interviews
+🔸 Master advanced DSA with Java
+🔸 Build and deploy full-stack MERN projects
+🔸 Prepare for SDE roles at top tech companies
