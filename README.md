@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="background-color:white;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
 </p>
 
