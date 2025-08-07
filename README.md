@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1> <h3 align="center">Aspiring SDE | Java DSA Enthusiast | MERN Stack Developer</h3> <p align="center"> <a href="https://leetcode.com/u/anil342zv/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/anil-kumar-37b151292/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:nagapuri.anil.tech@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 👨‍💻 About Me
+
 💻 Solved 300+ DSA problems in Java
 
 🌱 Building full-stack projects using MERN Stack
